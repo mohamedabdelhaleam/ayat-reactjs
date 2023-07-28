@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ayat-reactjs/static/css/main.30f19c56.css",
+    "main.js": "/ayat-reactjs/static/js/main.359eb3c2.js",
+    "static/media/main.png": "/ayat-reactjs/static/media/main.3caed5c91c9817227c3f.png",
+    "static/media/quran.jpg": "/ayat-reactjs/static/media/quran.b8642d9d69f2bb6a9ddd.jpg",
+    "static/media/doaa.jpg": "/ayat-reactjs/static/media/doaa.7d757f7fb8b847bca2c7.jpg",
+    "static/media/hands.jpg": "/ayat-reactjs/static/media/hands.7572e4c265501cd47590.jpg",
+    "static/media/pray.jpg": "/ayat-reactjs/static/media/pray.f143d6f9ca10b13b158d.jpg",
+    "static/media/maka.jpg": "/ayat-reactjs/static/media/maka.ce582768fcd15f745791.jpg",
+    "static/media/pattern copy.png": "/ayat-reactjs/static/media/pattern copy.f95c783a449fd4ea98c5.png",
+    "index.html": "/ayat-reactjs/index.html",
+    "main.30f19c56.css.map": "/ayat-reactjs/static/css/main.30f19c56.css.map",
+    "main.359eb3c2.js.map": "/ayat-reactjs/static/js/main.359eb3c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30f19c56.css",
+    "static/js/main.359eb3c2.js"
+  ]
+}
