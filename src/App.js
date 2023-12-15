@@ -16,6 +16,7 @@ import Hadith from './Content/Hadith';
 import EditProfile from './Content/EditProfile';
 import AddPage from './Content/AddPage';
 import AddFbPages from './Content/AddFbPages';
+import UserAgreement from './Content/UserAgreement';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         <Routes>
           <Route exact path='/' element ={<Home />}/>
           <Route path='/privacypolicy' element ={<PrivacyPolicy />}/>
+          <Route path='/useragreement' element ={<UserAgreement />}/>
           <Route path='/account' element ={<Account />}/>
           <Route path='/dashboard' element ={<Dashboard />}/>
           <Route path='/editPage/:id' element ={<EditPage />}/>
