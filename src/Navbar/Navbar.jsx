@@ -18,7 +18,7 @@ const Navbar = () => {
             <li><NavLink className='font-bold cursor-pointer' to='/'>عن الموقع</NavLink> </li>
             <li><NavLink className='font-bold cursor-pointer' to='/privacypolicy'>سياسية الخصوصية</NavLink></li>
         </ul>   
-        <div className='text-3xl font-bold text-white md:w-full md:h-full xs:w-full xs:h-full xs:flex xs:justify-center xs:items-center  sm:flex sm:justify-centersm:items-center md:flex md:justify-center md:items-center'><NavLink to='/'>Ayat</NavLink></div>
+        <div className='text-3xl font-bold text-white md:w-full md:h-full xs:w-full xs:h-full xs:flex xs:justify-center xs:items-center  sm:flex sm:justify-centersm:items-center md:flex md:justify-center md:items-center'><NavLink to='/'>شير في الخير</NavLink></div>
         
       </div>
     </div>
